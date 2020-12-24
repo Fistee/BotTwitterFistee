@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "name": "Bot Twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
